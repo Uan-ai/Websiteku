@@ -1,0 +1,35 @@
+
+body {
+  background: black;
+}
+
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: red;
+  font-size: 10px;
+  font-family: Orbitron;
+} 
+
+<style type="text/css">
+a
+      {
+         text-decoration: none; 
+         color: black;
+         background-color: orange;
+         font-family: arial;
+         font-weight: bold;
+         border: 1px solid black;
+         Line-height: 50px;
+         margin: auto;
+         padding: 10px;
+         border-radius: 5px;
+ }
+ a:hover
+ {
+   background-color: yellow;
+ }
+
+</style>
